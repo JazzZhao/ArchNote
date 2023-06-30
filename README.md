@@ -1,10 +1,5 @@
 # ArchNote
 Arch相关的一些东西
-
-# 安装官网
-
-https://wiki.archlinuxcn.org/wiki/%E9%A6%96%E9%A1%B5
-
 # 需要安装的软件
 
 1. yay(需要加入archlinuxcn源)
@@ -21,9 +16,7 @@ https://wiki.archlinuxcn.org/wiki/%E9%A6%96%E9%A1%B5
 12. archlinux-wallpaper(壁纸)
 13. wqy-microhei(中文字体)
 14. ttf-nerd-fonts-symbols（表情）
-15. neofetch（总览）
-
-## dwm的补丁
-
-
-## st的补丁
+15. nerd-fonts-complete
+16. neofetch（总览）
+17. fcitx5-im  fcitx5-chinese-addons fcitx5-rime(输入法)
+18. picom(透明)
