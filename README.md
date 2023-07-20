@@ -20,3 +20,6 @@ Arch相关的一些东西
 16. neofetch（总览）
 17. fcitx5-im  fcitx5-chinese-addons fcitx5-rime(输入法)
 18. picom(透明)
+19. tlp（电池管理）
+20. ntfs-3g （ntfs挂载）
+21. qemu libvirt ovmf virt-manager
